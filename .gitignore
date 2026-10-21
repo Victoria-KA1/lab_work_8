@@ -1,0 +1,23 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Кэш тестов и покрытие
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Сборки
+dist/
+build/
+*.egg-info/
+
+# Настройки редакторов
+.idea/
+.vscode/
